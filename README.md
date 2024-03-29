@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=radical)
+![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=dark)
 <!--
 **Rudviq/Rudviq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
