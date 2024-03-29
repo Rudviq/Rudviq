@@ -7,7 +7,7 @@
 ![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=cobalt)
 ![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=highcontrast)
 ![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=merko)
-![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=gruvbox)
+![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=github_dark_dimmed)
 ![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=tokyonight)
 ![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=github_dark)
 <!--
