@@ -8,7 +8,7 @@ I am professional
 
 
 <a href="https://github.com/Rudviq/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudviq&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudviq&layout=compact&langs_count=8&card_width=500" />
 </a>
 
 <!--
