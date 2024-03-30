@@ -27,7 +27,7 @@
 <p align="center">
   </br>
   
-  <a href="https://git.io/streak-stats">
+  <a>
     <img src=https://streak-stats.demolab.com/?user=Rudviq&&theme=tokyonight&&hide_border=true&card_width=495>
   </a>
    
