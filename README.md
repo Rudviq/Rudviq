@@ -2,7 +2,7 @@
 
 <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,bash,git" />
+          <img src="https://skillicons.dev/icons?i=py,bash,git,react,cpp,js,ai,docker,css,html,mysql,java" />
         </a>
       </p>
       
@@ -28,15 +28,7 @@
     
 </p>
 
-<!-- Get in Touch Section -->
-  <p align="center">
-## Get in Touch 📫
-      <strong>Get in Touch</strong> 📫
-      <br>
-      You can reach me via email at <a href="mailto:rudviq.bhavsar02@gmail.com">rudviq.bhavsar02@gmail.com</a>
-      <br>
-      Connect with me on <a href="https://www.linkedin.com/in/rudviqbhavsar/">LinkedIn</a> 🌐
-  </p>
+
 
 ## Get in Touch 📫
 - LinkedIn: [linkedin/RudviqBhavsar](https://www.linkedin.com/in/rudviq-bhavsar-201219187/?originalSubdomain=in) 🌐
