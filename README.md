@@ -2,7 +2,7 @@
 
 I am professional 
 
-![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=catppuccin_mocha)
+![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=catppuccin_mocha&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&layout=donut-vertical&theme=catppuccin_mocha&size_weight=1&count_weight=0&card_width=500px)
 
