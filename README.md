@@ -1,20 +1,8 @@
 ### Hi there 👋
 
-I am professional 
-
-![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=catppuccin_mocha)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&layout=donut-vertical&theme=catppuccin_mocha&size_weight=1&count_weight=0&card_width=500px)
-
-
-<a href="https://github.com/Rudviq/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudviq&layout=donut-vertical&langs_count=8" />
-</a>
-
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,godot,py,blender,neovim,bash,git" />
+    <img src="https://skillicons.dev/icons?i=py,bash,git" />
   </a>
 </p>
 
@@ -41,9 +29,8 @@ I am professional
 </p>
 
 ## Get in Touch
-- LinkedIn: [https://www.linkedin.com/in/rudviq-bhavsar-201219187/?originalSubdomain=in](url)
-- Twitter: [Your Twitter Profile](Link to Twitter)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [linkedin/RudviqBhavsar](https://www.linkedin.com/in/rudviq-bhavsar-201219187/?originalSubdomain=in) 🌐
+- Email: [rudviq.bhavsar02@gmail.com](mailto:rudviq.bhavsar02@gmail.com) 📧
 <!--
 **Rudviq/Rudviq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
