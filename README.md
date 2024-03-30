@@ -4,7 +4,7 @@ I am professional
 
 ![Rudviq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=discord_old_blurple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&layout=compact&theme=discord_old_blurple&size_weight=0.7&count_weight=0.7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&layout=compact&theme=discord_old_blurple&size_weight=1&count_weight=1)
 <!--
 **Rudviq/Rudviq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
