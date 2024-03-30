@@ -1,10 +1,27 @@
 ### Hi there 👋
 
+### <p align="center">Programming Languages 🚀</p>
 <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,bash,git,react,cpp,js,ai,docker,css,html,mysql,java" />
-        </a>
-      </p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,cpp,java" />
+</a>
+</p>
+
+### <p align="center">Web Development 💻</p>
+<p align="center">    
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,js,css,html,mysql" />
+</a>
+</p>
+    
+### <p align="center">Cloud ☁️</p>
+<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,docker,aws" />
+</a>
+</p>
+
+
       
 <p align="center">
   </br>
