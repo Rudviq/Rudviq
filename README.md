@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,git" />
-  </a>
-</p>
-
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py,bash,git" />
+        </a>
+      </p>
+      
 <p align="center">
   </br>
   
@@ -15,7 +15,7 @@
    
   </br>
   </br>
-  
+        
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rudviq&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=Tex>
   
@@ -27,6 +27,15 @@
   </a>
     
 </p>
+
+<!-- Get in Touch Section -->
+  <p align="center">
+      <strong>Get in Touch</strong> 📫
+      <br>
+      You can reach me via email at <a href="mailto:rudviq.bhavsar02@gmail.com">rudviq.bhavsar02@gmail.com</a>
+      <br>
+      Connect with me on <a href="https://www.linkedin.com/in/rudviqbhavsar/">LinkedIn</a> 🌐
+  </p>
 
 ## Get in Touch
 - LinkedIn: [linkedin/RudviqBhavsar](https://www.linkedin.com/in/rudviq-bhavsar-201219187/?originalSubdomain=in) 🌐
