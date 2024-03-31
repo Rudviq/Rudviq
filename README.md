@@ -50,6 +50,9 @@
 ## Get in Touch 📫
 - LinkedIn: [linkedin/RudviqBhavsar](https://www.linkedin.com/in/rudviq-bhavsar-201219187/?originalSubdomain=in) 🌐
 - Email: [rudviq.bhavsar02@gmail.com](mailto:rudviq.bhavsar02@gmail.com) 📧
+
+
+[![](https://visitcount.itsvg.in/api?id=Rudviq&icon=0&color=1)](https://visitcount.itsvg.in)
 <!--
 **Rudviq/Rudviq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
