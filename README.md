@@ -3,19 +3,19 @@
   <tr>
     <td align="center" width="333">
       <h3>Programming Languages 🚀</h3>
-      <a href="https://skillicons.dev">
+      <a>
         <img src="https://skillicons.dev/icons?i=py,cpp,java" />
       </a>
     </td>
     <td align="center" width="333">
       <h3>Web Development 💻</h3>
-      <a href="https://skillicons.dev">
+      <a>
         <img src="https://skillicons.dev/icons?i=react,js,css,html,mysql" />
       </a>
     </td>
     <td align="center" width="333">
       <h3>Cloud ☁️</h3>
-      <a href="https://skillicons.dev">
+      <a >
         <img src="https://skillicons.dev/icons?i=azure,docker,aws" />
       </a>
     </td>
