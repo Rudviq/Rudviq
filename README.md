@@ -26,17 +26,7 @@
       
 <p align="center">
   </br>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+  
   <a class="theme-dark">
     <img src=https://streak-stats.demolab.com/?user=Rudviq&&theme=tokyonight#gh-dark-mode-only&&hide_border=true&card_width=495>
   </a>
@@ -47,10 +37,22 @@
   <a >
     <img height ="200"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rudviq&hide_border=true&langs_count=5&show_icons=true&card_width=405&theme=tokyonight&hide=Tex&layout=compact" >
   </a>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=tokyonight&hide_border=true&card_width=495"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" /> -->
+    <img height ="200" src=https://streak-stats.demolab.com/?user=Rudviq>
+</picture>
  
-  <a>
-    <img height ="200" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rudviq&hide_border=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&card_width=495 />
-  </a>
+  <!-- <a> -->
+<!--     <img height ="200" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rudviq&hide_border=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&card_width=495 /> -->
+<!--   </a> -->
     
 </p>
 
