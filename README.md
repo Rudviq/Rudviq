@@ -28,24 +28,24 @@
   </br>
   
   <a>
-    <img src=https://streak-stats.demolab.com/?user=Rudviq&&theme=tokyonight&&hide_border=true&card_width=495>
+    <img src=https://streak-stats.demolab.com/?user=Rudviq&&theme=tokyonight#gh-dark-mode-only&&hide_border=true&card_width=495>
   </a>
    
   </br>
   </br>
         
   <a >
-    <img height ="200" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rudviq&hide_border=true&langs_count=5&show_icons=true&card_width=405&theme=tokyonight&hide=Tex&layout=compact>
+    <img height ="200" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rudviq&hide_border=true&langs_count=5&show_icons=true&card_width=405&theme=tokyonight#gh-dark-mode-only&hide=Tex&layout=compact>
   </a>
  
   <a>
-    <img height ="200" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rudviq&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+    <img height ="200" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rudviq&hide_border=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&card_width=495 />
   </a>
     
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rudviq&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Rudviq&limit=5&theme=tokyonight#gh-dark-mode-only&combine_all_yearly_contributions=true)
 
 ## Get in Touch 📫
 - LinkedIn: [linkedin/RudviqBhavsar](https://www.linkedin.com/in/rudviq-bhavsar-201219187/?originalSubdomain=in) 🌐
