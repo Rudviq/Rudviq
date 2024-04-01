@@ -26,8 +26,18 @@
       
 <p align="center">
   </br>
-  
-  <a>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+  <a class="theme-dark">
     <img src=https://streak-stats.demolab.com/?user=Rudviq&&theme=tokyonight#gh-dark-mode-only&&hide_border=true&card_width=495>
   </a>
    
@@ -35,7 +45,7 @@
   </br>
         
   <a >
-    <img height ="200" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rudviq&hide_border=true&langs_count=5&show_icons=true&card_width=405&theme=tokyonight#gh-dark-mode-only&hide=Tex&layout=compact>
+    <img height ="200"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rudviq&hide_border=true&langs_count=5&show_icons=true&card_width=405&theme=tokyonight&hide=Tex&layout=compact" >
   </a>
  
   <a>
