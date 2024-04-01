@@ -33,8 +33,8 @@
 
   <picture>
   <source
-    srcset="https://streak-stats.demolab.com/?user=Rudviq&hide_border=true&card_width=495"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=Rudviq&hide_border=true&card_width=495&theme=tokyonight"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://streak-stats.demolab.com/?user=Rudviq&card_width=495"
