@@ -27,9 +27,21 @@
 <p align="center">
   </br>
   
-  <a class="theme-dark">
-    <img src=https://streak-stats.demolab.com/?user=Rudviq&&theme=tokyonight#gh-dark-mode-only&&hide_border=true&card_width=495>
-  </a>
+ <!--  <a > -->
+<!--     <img src=https://streak-stats.demolab.com/?user=Rudviq&&theme=tokyonight#gh-dark-mode-only&&hide_border=true&card_width=495> -->
+<!--   </a> -->
+
+  <picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Rudviq&hide_border=true&card_width=495"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Rudviq&card_width=495"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img src=https://streak-stats.demolab.com/?user=Rudviq>
+</picture>
    
   </br>
   </br>
@@ -45,7 +57,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&hide_border=true&langs_count=5&show_icons=true&card_width=405&hide=Tex&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&langs_count=5&show_icons=true&card_width=405&hide=Tex&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img height ="200" src=https://streak-stats.demolab.com/?user=Rudviq>
@@ -54,11 +66,11 @@
   <!-- Git Stats -->
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=tokyonight&hide_border=true&card_width=495"
+    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=tokyonight&card_width=495"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&card_width=495"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img height ="200" src=https://streak-stats.demolab.com/?user=Rudviq>
@@ -71,7 +83,22 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rudviq&limit=5&theme=tokyonight#gh-dark-mode-only&combine_all_yearly_contributions=true)
+<!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Rudviq&limit=5&combine_all_yearly_contributions=true&theme=tokyonight#gh-dark-mode-only) -->
+<!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Rudviq&limit=5&combine_all_yearly_contributions=true&theme=default#gh-light-mode-only) -->
+
+<picture>
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=Rudviq&limit=5&combine_all_yearly_contributions=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=Rudviq&limit=5&combine_all_yearly_contributions=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img src=https://streak-stats.demolab.com/?user=Rudviq>
+</picture>
+
+
 
 ## Get in Touch 📫
 - LinkedIn: [linkedin/RudviqBhavsar](https://www.linkedin.com/in/rudviq-bhavsar-201219187/?originalSubdomain=in) 🌐
