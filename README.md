@@ -53,7 +53,7 @@
   <!-- Top Languages -->
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&show_icons=true&hide_border=true&langs_count=5&show_icons=true&card_width=405&theme=tokyonight&hide=Tex&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&show_icons=true&langs_count=5&show_icons=true&card_width=405&theme=tokyonight&hide=Tex&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
