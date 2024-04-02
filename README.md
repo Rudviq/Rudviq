@@ -1,4 +1,5 @@
 
+## 📌 Tech Stack
 <table align="center" style="border-collapse: collapse; border: dotted;">
   <tr>
     <td align="center" width="333">
@@ -22,8 +23,11 @@
   </tr>
 </table>
 
+## 💻 Other Tech Stacks
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-      
+
+## 📊 Contributions and Stats
 <p align="center">
   </br>
   
@@ -82,7 +86,7 @@
     
 </p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Rudviq&limit=5&combine_all_yearly_contributions=true&theme=tokyonight#gh-dark-mode-only) -->
 <!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Rudviq&limit=5&combine_all_yearly_contributions=true&theme=default#gh-light-mode-only) -->
 
