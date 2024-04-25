@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=A+Data+Analyst+;I+like+to+talk+about+data." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=A+Software+Engineer+;I+like+to+problem+solving+." alt="Typing SVG" /></a>
 ## 📌 Tech Stack
 <table align="center" style="border-collapse: collapse; border: dotted;">
   <tr>
