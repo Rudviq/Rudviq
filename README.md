@@ -58,11 +58,11 @@
   <!-- Top Languages -->
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&show_icons=true&langs_count=5&show_icons=true&card_width=405&theme=tokyonight&hide=Tex&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&show_icons=true&langs_count=5&show_icons=true&card_width=305&theme=tokyonight&hide=Tex&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&langs_count=5&show_icons=true&card_width=405&hide=Tex&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudviq&langs_count=5&show_icons=true&card_width=305&hide=Tex&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img height ="200" src=https://streak-stats.demolab.com/?user=Rudviq>
@@ -71,11 +71,11 @@
   <!-- Git Stats -->
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=tokyonight&card_width=495"
+    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&theme=tokyonight&card_width=395"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&card_width=495"
+    srcset="https://github-readme-stats.vercel.app/api?username=Rudviq&show_icons=true&card_width=395"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img height ="200" src=https://streak-stats.demolab.com/?user=Rudviq>
