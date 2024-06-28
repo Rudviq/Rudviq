@@ -2,7 +2,7 @@
 ## 📌 Tech Stack
 <table align="center" style="border-collapse: collapse; border: dotted;">
   <tr>
-    <td align="center" width="333">
+    <td align="center" width="366">
       <h3>Programming Languages 🚀</h3>
       <a>
         <img src="https://skillicons.dev/icons?i=py,cpp,java" />
@@ -14,7 +14,7 @@
         <img src="https://skillicons.dev/icons?i=react,js,css,html,mysql" />
       </a>
     </td>
-    <td align="center" width="333">
+    <td align="center" width="300">
       <h3>Cloud ☁️</h3>
       <a >
         <img src="https://skillicons.dev/icons?i=azure,docker,aws" />
